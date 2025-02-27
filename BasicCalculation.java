@@ -2,7 +2,7 @@
 import java.util.Scanner;
 
 // Creating class BasicCalculator
-class BasicCalculator {
+class BasicCalculation {
 
     public static void main(String[] args) {
 
